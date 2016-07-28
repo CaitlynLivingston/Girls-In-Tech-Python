@@ -1,6 +1,6 @@
-for i in range(20):
+for i in range(10):
             number=37
-            guess=int(raw_input ('pick a number between 1 and 1000'))
+            guess=int(raw_input ('pick a number between 1 and 70'))
             if number==guess:
                 print  'YAY YOU WIN'
                 break
